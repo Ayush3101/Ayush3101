@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ayush3101
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning JavaScript,React 
-- 💞️ I’m looking to collaborate on internship 
+- 🌱 I’m currently working on JavaScript,React 
 - 📫 How to reach me singhayush0131@gmail.com
 
 <!---
